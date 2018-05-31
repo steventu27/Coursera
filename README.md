@@ -8,3 +8,4 @@
 ### Deeplearning.ai ### 
 <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a>
 * <a href="https://www.coursera.org/learn/neural-networks-deep-learning" target="_blank">Neural Networks and Deep Learning</a> 
+* <a href="https://www.coursera.org/learn/deep-neural-network" target="_blank">Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</a> 
